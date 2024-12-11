@@ -1,4 +1,4 @@
-# $D^4NeRF$
+# $DetRF$
 
 PyTorch implementation of paper [Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields](http://arxiv.org/abs/2301.00411).
 
