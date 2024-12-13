@@ -1,6 +1,8 @@
 # $DetRF$
 
-PyTorch implementation of paper [Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields](http://arxiv.org/abs/2301.00411).
+PyTorch implementation of paper [DetRF: Detachable Novel Views Synthesis of Dynamic Scenes Using Backdrop-Driven Neural Radiance Fields](http://arxiv.org/abs/2301.00411).
+
+[_AAAI 2025_] DetRF: Detachable Novel Views Synthesis of Dynamic Scenes Using Backdrop-Driven Neural Radiance Fields
 
 <div align=center>
 
